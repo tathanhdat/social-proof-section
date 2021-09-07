@@ -11,11 +11,11 @@ Users should be able to:
 ### Screenshot
 - Desktop Version
 
-  ![./Desktop-screenshot.png]
+  ![](./Desktop-screenshot.png)
   
 - Mobile Version
 
-  ![./Mobile-screenshot.png]
+  ![](./Mobile-screenshot.png)
 
 ### Links
 
