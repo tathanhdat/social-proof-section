@@ -9,12 +9,17 @@ Users should be able to:
 -   View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
+- Desktop Version
+
+  ![./Desktop-screenshot.png]
+  
+- Mobile Version
+
+  ![./Mobile-screenshot.png]
 
 ### Links
 
--   [Live site URL](https://your-live-site-url.com)
-
-## My process
+-   [Live site URL](https://tathanhdat.github.io/social-proof-section/)
 
 ### Built with
 
